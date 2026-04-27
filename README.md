@@ -104,3 +104,9 @@ Frontend development skills
 Data handling using LocalStorage
 UI/UX design
 Logic building and analytics
+
+📌 Future Enhancements
+Backend integration (Firebase / Node.js)
+Multi-device sync
+AI-based financial predictions
+Mobile app version
