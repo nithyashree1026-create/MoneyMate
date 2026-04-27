@@ -10,14 +10,20 @@ Categorize transactions (Food, Travel, Shopping, etc.)
 Date-wise tracking
 Delete transactions anytime
 
-Smart Dashboard
+📊Smart Dashboard
 Total Balance
 Total Income
 Total Expenses
 Budget Remaining
 
-Monthly Budget Planner
+🎯Monthly Budget Planner
 Set monthly budget
 Track how much is spent
 Visual progress bar
 Delete/reset budget anytime
+
+🏦 Savings Goal Tracker
+Set savings goal (example: Laptop Fund)
+Track saved amount vs target
+Progress bar for goal completion
+Delete goal anytime
