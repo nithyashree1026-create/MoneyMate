@@ -59,3 +59,7 @@ Shows spending per date
 Search transactions
 Filter by category
 Filter by type (income/expense)
+
+🎤 Voice Input
+Add transactions using voice
+Example: “Add 200 for food”
