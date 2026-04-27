@@ -63,3 +63,6 @@ Filter by type (income/expense)
 🎤 Voice Input
 Add transactions using voice
 Example: “Add 200 for food”
+
+📂 Export Feature
+Export all transactions as CSV file
