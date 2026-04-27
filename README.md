@@ -55,3 +55,7 @@ Savings suggestions
 Daily expense tracking
 Shows spending per date
 
+🔍 Search & Filters
+Search transactions
+Filter by category
+Filter by type (income/expense)
