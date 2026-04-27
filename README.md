@@ -76,3 +76,10 @@ Each user has separate data stored in browser
 
 🔄 Reset Data
 Reset all transactions, budget, goals, and limits
+
+🎨 UI/UX Design
+Aesthetic pink-purple theme
+Glassmorphism UI
+Animated money background
+Category-based images
+Responsive design
