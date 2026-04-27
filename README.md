@@ -33,3 +33,10 @@ Set limits for specific categories
 Example: Food ₹2000, Travel ₹1500
 Alerts when limit is exceeded
 Visual progress indicators
+
+🏆 Monthly Report Card
+Total monthly income & expenses
+Savings amount
+Savings percentage
+Highest spending category
+Lowest spending category
