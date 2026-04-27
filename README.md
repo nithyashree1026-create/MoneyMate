@@ -69,3 +69,7 @@ Export all transactions as CSV file
 
 🌙 Dark Mode
 Toggle between light and dark themes
+
+🔐 Login System (Local)
+Simple username-based login
+Each user has separate data stored in browser
