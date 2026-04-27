@@ -115,3 +115,6 @@ Mobile app version
 Nithya Siri
 Final Year ECE Student
 Passionate about building real-world projects 💻✨
+
+💖 Final Note
+"Small savings today, big freedom tomorrow."
