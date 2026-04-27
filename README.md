@@ -110,3 +110,8 @@ Backend integration (Firebase / Node.js)
 Multi-device sync
 AI-based financial predictions
 Mobile app version
+
+👩‍💻 Author
+Nithya Siri
+Final Year ECE Student
+Passionate about building real-world projects 💻✨
