@@ -15,3 +15,9 @@ Total Balance
 Total Income
 Total Expenses
 Budget Remaining
+
+Monthly Budget Planner
+Set monthly budget
+Track how much is spent
+Visual progress bar
+Delete/reset budget anytime
