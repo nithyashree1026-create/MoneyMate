@@ -27,3 +27,9 @@ Set savings goal (example: Laptop Fund)
 Track saved amount vs target
 Progress bar for goal completion
 Delete goal anytime
+
+🚦 Category Spending Limits
+Set limits for specific categories
+Example: Food ₹2000, Travel ₹1500
+Alerts when limit is exceeded
+Visual progress indicators
