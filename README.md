@@ -41,6 +41,10 @@ Savings percentage
 Highest spending category
 Lowest spending category
 
+📈 Analytics Dashboard
+Pie chart (category-wise expenses)
+Line chart (daily spending trend)
+
 🧠 Smart Insights
 Spending behavior analysis
 Budget warnings
