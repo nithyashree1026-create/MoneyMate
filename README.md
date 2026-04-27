@@ -83,3 +83,10 @@ Glassmorphism UI
 Animated money background
 Category-based images
 Responsive design
+
+🛠️ Tech Stack
+HTML5
+CSS3 (Glassmorphism UI)
+JavaScript (Vanilla JS)
+Chart.js (for graphs)
+LocalStorage (for data storage)
