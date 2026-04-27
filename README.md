@@ -50,3 +50,8 @@ Spending behavior analysis
 Budget warnings
 Overspending alerts
 Savings suggestions
+
+📅 Calendar View
+Daily expense tracking
+Shows spending per date
+
