@@ -73,3 +73,6 @@ Toggle between light and dark themes
 🔐 Login System (Local)
 Simple username-based login
 Each user has separate data stored in browser
+
+🔄 Reset Data
+Reset all transactions, budget, goals, and limits
