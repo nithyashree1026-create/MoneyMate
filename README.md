@@ -66,3 +66,6 @@ Example: “Add 200 for food”
 
 📂 Export Feature
 Export all transactions as CSV file
+
+🌙 Dark Mode
+Toggle between light and dark themes
