@@ -40,3 +40,9 @@ Savings amount
 Savings percentage
 Highest spending category
 Lowest spending category
+
+🧠 Smart Insights
+Spending behavior analysis
+Budget warnings
+Overspending alerts
+Savings suggestions
