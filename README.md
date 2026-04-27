@@ -90,3 +90,9 @@ CSS3 (Glassmorphism UI)
 JavaScript (Vanilla JS)
 Chart.js (for graphs)
 LocalStorage (for data storage)
+
+💼 Use Cases
+Personal finance tracking
+Student expense management
+Budget planning
+Savings tracking
