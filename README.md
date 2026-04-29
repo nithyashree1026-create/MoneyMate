@@ -115,7 +115,7 @@ AI-based financial predictions
 Mobile app version
 
 # 👩‍💻 Author
-Nithya Siri
+Nithya
 Final Year ECE Student
 Passionate about building real-world projects 💻✨
 
